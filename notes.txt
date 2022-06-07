@@ -1,0 +1,18 @@
+Doc App
+Requirements:
+01. Good design & look ( beshi Complex korar dorkar nai, simple er modhay user friendly holei hobay)
+
+02. Auth part:
+Two type of user thakbay doctor & patient
+App open korar por option ashbay login as doctor or login as patient. Ai duitah role er user thaklei hobay
+
+03. Appointment:
+Patient jekono doctor kay appointment req pathatay parbe...er por oi doctor jodi req accept kore then patient er mobile ay oitar notification ashbay( push notification part tai main baki gula just CRUD type)
+
+04. Prescription:
+Same bhabay prescription o... doctor kono patient kay prescription pathatay tah patient er mobile ay notification jabay
+
+
+Lotari mobile apps,
+Purchse ticket,
+gift price
